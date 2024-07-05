@@ -1,0 +1,4 @@
+{
+    "sketch": "Peltier_temp.ino",
+    "board": "arduino:renesas_uno:unor4wifi"
+}
